@@ -1,0 +1,23 @@
+{
+  "name": "codewars-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanm2706/codewars-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanm2706/codewars-solutions/issues"
+  },
+  "homepage": "https://github.com/ivanm2706/codewars-solutions#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
